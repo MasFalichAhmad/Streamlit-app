@@ -1,7 +1,5 @@
 import streamlit as st
-from home import show_home
-from how_it_works import show_how_it_works
-from instructions import show_instructions
+
 
 def main():
     st.sidebar.title("Navigation")
