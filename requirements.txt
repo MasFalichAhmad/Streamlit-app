@@ -5,4 +5,4 @@ mediapipe
 pandas
 matplotlib
 seaborn
-math
+python-math
