@@ -8,4 +8,3 @@ seaborn
 python-math
 yolov8
 jsons
-show_home
