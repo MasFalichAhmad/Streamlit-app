@@ -9,3 +9,4 @@ python-math
 yolov8
 jsons
 fibo
+PoseEstimator
