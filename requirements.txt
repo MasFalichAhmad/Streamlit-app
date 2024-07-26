@@ -8,3 +8,4 @@ seaborn
 python-math
 yolov8
 jsons
+venv
