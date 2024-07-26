@@ -1,5 +1,5 @@
 numpy
-streamlit
+streamlit==1.37.0
 opencv-python
 mediapipe
 pandas
